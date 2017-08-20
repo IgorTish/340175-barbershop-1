@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Игорь Тишутин](https://up.htmlacademy.ru/htmlcss/18/user/340175).
+* Студент: [Игорь Тишутин](https://up.htmlacademy.ru/htmlcss/18/user/340175 https://htmlacademy.ru/profile/id340175; Skype: tigorka44).
 
 ---
 
